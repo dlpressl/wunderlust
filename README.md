@@ -1,2 +1,2 @@
 # wunderlust
- Demostration of semantic validated html thats accessibilty friendly
+Demonstration of semantically validated HTML that's accessibility friendly.
